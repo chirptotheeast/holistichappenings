@@ -28,3 +28,7 @@
 .App-link {
   color: #61dafb;
 }
+
+.container{
+  background-image: url(./images/eyebg.jpg);
+}
