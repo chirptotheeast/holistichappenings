@@ -5,6 +5,7 @@ function App() {
     <div>
       <section id="hero">
         <header className="App-header border">Holistic Happenings</header>
+        <img src={}/>
       </section>
     </div>
   );
